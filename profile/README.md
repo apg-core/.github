@@ -4,6 +4,27 @@ We are a national holding company building a cross-sector business ecosystem wit
 
 ---
 
+### 🏢 Company Profiles
+- [Ardana Perkasa Group](https://apg.co.id/)
+- [PT Buana Perkasa Rajanegara](https://bprbonding.id/)
+- [PT Caraka Mulia](https://carakamulia.com/)
+- [PT Dwi Kusuma Perkasa](https://dwpinsurance.id/)
+- [PT Sip Bro Delapan Perkasa](https://sipbro.id/)
+- [PT Perkasa Ardana Badminton Club](https://pradabc.com/)
+
+---
+
+### 🚀 Managed Systems & Platforms
+- **Sistem Agen Asuransi**
+- **Sistem Broker Asuransi**
+- **Sistem Keuangan Multi Perusahaan**
+- **Sistem Inventaris Multi Perusahaan**
+- **Sistem HRIS** (Human Resource Integrated System)
+- **Sistem CMS** (Content Management System)
+- **Sistem CRM** (Customer Relationship Management)
+
+---
+
 ### 🌐 Our Techstack Frontend
 - Javascript (React, Nextjs, Vite)
 - Typescript (React, Vite)
